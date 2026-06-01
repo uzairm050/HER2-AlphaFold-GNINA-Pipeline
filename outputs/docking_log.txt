@@ -1,0 +1,24 @@
+GNINA Docking Results - Lapatinib vs ERBB2
+=======================================================
+
+Receptor  : ERBB2_model0.pdb (AlphaFold Server model_0)
+Ligand    : Lapatinib (PubChem CID 208908)
+Tool      : GNINA v1.0.3
+Seed      : 42
+Modes     : 9
+Exhaustiveness: 8
+
+Mode    Affinity (kcal/mol)   CNN Pose Score   CNN Affinity
+--------------------------------------------------------------
+1              -6.08               0.4948          6.393
+2              -6.28               0.4650          6.145
+3              -5.88               0.3571          5.940
+4              -6.61               0.3544          6.171
+5              -6.23               0.3462          6.229
+6              -5.98               0.3004          6.134
+7              -6.48               0.2900          5.624
+8              -7.30               0.2743          5.776
+9              -6.86               0.2512          6.079
+
+Best affinity  : Mode 8 (-7.30 kcal/mol)
+Best CNN score : Mode 1 (0.4948) — most geometrically plausible pose

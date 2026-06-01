@@ -1,0 +1,28 @@
+AlphaFold2 Structure Prediction Report
+=======================================
+
+Gene       : ERBB2
+Protein    : HER2 (receptor tyrosine-protein kinase erbB-2)
+Tool       : AlphaFold Server (alphafoldserver.com)
+Model      : model_0 (best ranked)
+Date       : 2026-05-31
+
+Confidence Metrics
+------------------
+pTM              : 0.55
+Chain pTM        : 0.55
+Ranking Score    : 0.68
+Has Clash        : 0.0
+Recycles         : 10
+Fraction Disordered: 0.26
+
+Interpretation
+--------------
+pTM of 0.55 indicates acceptable overall fold confidence for a large
+1255 aa protein spanning multiple structural domains including the
+extracellular domain and the intracellular kinase domain.
+
+Ranking score of 0.68 confirms model_0 as the best predicted structure.
+No structural clashes detected (has_clash = 0.0).
+26% of residues predicted as disordered, consistent with known flexible
+linker regions between the extracellular and transmembrane domains.

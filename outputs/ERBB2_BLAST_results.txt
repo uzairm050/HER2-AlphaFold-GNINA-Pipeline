@@ -1,0 +1,17 @@
+BLAST Results - ERBB2 DNA Query
+==================================================
+
+Hit 1: gi|2108243289|gb|OK040665.1| Mus musculus musculus strain C57BL/10 chromosome 17
+Score: 2000.0 | E-value: 0.0 | Identity: 1000
+
+Hit 2: gi|628601933|ref|NG_034125.1| Homo sapiens post-GPI attachment to proteins phospholipase 3
+Score: 2000.0 | E-value: 0.0 | Identity: 1000
+
+Hit 3: gi|5917586|dbj|AB025285.1| Homo sapiens c-ERBB-2 gene, exons 1', 2', 3', 4'
+Score: 2000.0 | E-value: 0.0 | Identity: 1000
+
+Hit 4: gi|54888662|emb|CR626867.6| Human DNA sequence from clone XX-HCC1954_8J23
+Score: 2000.0 | E-value: 0.0 | Identity: 1000
+
+Hit 5: gi|21427799|gb|AC087491.5| Homo sapiens chromosome 17, clone RP11-62N23
+Score: 2000.0 | E-value: 0.0 | Identity: 1000
