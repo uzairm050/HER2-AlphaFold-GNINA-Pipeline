@@ -276,7 +276,7 @@ urllib.request.urlretrieve(url, "lapatinib.sdf")
 
 ![Docking bar chart](figures/docking_results.png)
 
-![Docking Molstar](figures/docking_molstar.png)
+![ERBB2 Molstar view](figures/erbb2_molstar.png)
 
 ### Interpretation
 
