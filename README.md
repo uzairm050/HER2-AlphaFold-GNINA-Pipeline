@@ -182,7 +182,6 @@ The full 1255 aa HER2 sequence was submitted to the **AlphaFold Server** with de
 
 The structure shows the large extracellular domain (top, less ordered loops) and the dense helical kinase domain (bottom). The rainbow coloring (blue to red) represents the N-terminus to C-terminus respectively.
 
-![ERBB2 Molstar view](figures/erbb2_molstar.png)
 
 ### Confidence Summary
 
